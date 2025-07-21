@@ -6,16 +6,14 @@
 - 🌱Comfortable building frontend applications using React, JavaScript, HTML, and CSS, with hands-on experience in creating responsive and interactive UIs.
 
 
-## 🌐 Socials:
 <a href="https://instagram.com/antaraaa_36" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" width="100" height="25" />
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" width="100" height="25" />
 </a>
 <a href="https://www.linkedin.com/in/AntaraChamankar" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" width="100" height="25" />
 </a>
-
 <a href="mailto:antarachamankar@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" width="100" height="25"  />
+  <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" width="100" height="25" />
 </a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
