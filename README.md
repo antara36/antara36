@@ -7,8 +7,16 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/antaraaa_36) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AntaraChamankar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:antarachamankar@gmail.com) 
+<a href="https://instagram.com/antaraaa_36" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" width="150" />
+</a>
+<a href="https://www.linkedin.com/in/AntaraChamankar" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" width="150" />
+</a>
 
+<a href="mailto:antarachamankar@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" width="150" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
