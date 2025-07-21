@@ -8,7 +8,7 @@
 ## 🌐 Socials:
 
 <a href="https://instagram.com/antaraaa_36" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" width="100" height="25" />
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" width="100" height="28" />
 </a>
 <a href="https://www.linkedin.com/in/AntaraChamankar" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" width="100" height="25" />
