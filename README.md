@@ -5,6 +5,7 @@
 - 🤝Let’s connect and collaborate on beginner-friendly AI/ML projects or anything creative in tech!<br>
 - 🌱Comfortable building frontend applications using React, JavaScript, HTML, and CSS, with hands-on experience in creating responsive and interactive UIs.
 
+## 🌐 Socials:
 
 <a href="https://instagram.com/antaraaa_36" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" width="100" height="25" />
